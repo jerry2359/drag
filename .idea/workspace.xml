@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6509fd47-5deb-417b-a725-cfc6615c7062" name="默认的" comment="" />
+    <list default="true" id="6509fd47-5deb-417b-a725-cfc6615c7062" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drag.js" afterPath="$PROJECT_DIR$/drag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="drag.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +40,8 @@
       <file leaf-file-name="drag.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/drag.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14508928" vertical-offset="0" max-vertical-offset="896">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.2611607" vertical-offset="0" max-vertical-offset="896">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -47,6 +50,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -224,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/drag.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14508928" vertical-offset="0" max-vertical-offset="896">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.2611607" vertical-offset="0" max-vertical-offset="896">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
