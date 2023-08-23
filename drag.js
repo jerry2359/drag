@@ -6,5 +6,6 @@
 
     var a = 0;
 
+    console.log('From drag.js');
 
 })();
